@@ -1,4 +1,4 @@
-package sda.SingleResponsibility;
+package sda.SingleResponsibilityOfUser;
 
 public class User {
 
