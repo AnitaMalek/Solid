@@ -1,6 +1,18 @@
-package sda.LiskovSubstitution;
+package sda.LiskovSubstitution.Car;
 
 public class TryCar {
+
+    //Zaproponuj rozwiązanie poniższego problemu z wykorzystaniem zasady Liskov Substition:
+    //Istnieje możliwość stworzenia samochodu zarówno o skrzyni biegów manualnej jak i automatycznej
+    //
+    //public Car {
+    //		void startEngine(){
+    //		}
+    //		void driveWithSpeed(int speed) {
+    //		}
+    //		void changeGear(int gearNumber){
+    //		}
+    //}
 
     public static void main(String[] args) {
         AutomaticGearCar automatic = new AutomaticGearCar();

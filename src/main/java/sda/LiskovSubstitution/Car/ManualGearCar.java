@@ -1,4 +1,4 @@
-package sda.LiskovSubstitution;
+package sda.LiskovSubstitution.Car;
 
 public class ManualGearCar implements Car {
 
